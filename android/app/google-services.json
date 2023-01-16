@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "956118940494",
+    "project_id": "wallex-9100b",
+    "storage_bucket": "wallex-9100b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956118940494:android:83afdfc3ea205f31dc7c1f",
+        "android_client_info": {
+          "package_name": "com.srikanth.wallex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956118940494-ksm00ps94at33keim34op9103f9u9s6b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.srikanth.wallex",
+            "certificate_hash": "1591857777c2e2316fbdb8abfa894024a74ac68e"
+          }
+        },
+        {
+          "client_id": "956118940494-97ru3khvs1h1pmo5hit3hemhjbhnb8em.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtjOPU4yr4-wK8v9yiflNe65ycEjr9lGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956118940494-97ru3khvs1h1pmo5hit3hemhjbhnb8em.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
